@@ -9,7 +9,7 @@ Para fazer este projeto, usamos a linguagem python junto com as seguintes biblio
   - seaborn
   - jupyter
 
-Explicações gerais no video: https://youtube.com
+Explicações gerais no video: https://www.youtube.com/watch?v=qf8exZt8pUw&feature=youtu.be
 
 # Contribuidores
 * PHELIPE HENRIQUE FERNANDES VIEIRA (felihenrique@gmail.com)
